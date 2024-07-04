@@ -58,7 +58,8 @@ const Projects = () => {
         Aos.init();
       },[])
   return (
-    <div name="projects" className='w-full md:h-screen text-white bg-gradient-to-b from-black to-gray-800 pt-[39rem] md:pt-[0rem]'>
+    <div name="projects" className='w-full md:h-screen text-white bg-gradient-to-b from-black to-gray-800 pt-[35rem] 
+    md:pt-[0rem]'>
 
         <div className='max-w-screen-xl p-4 mx-auto flex flex-col justify-center w-full h-full px-12'>
 
